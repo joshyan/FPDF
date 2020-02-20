@@ -7,14 +7,14 @@ FPDF is a PHP class which allows to generate PDF files with pure PHP. F from FPD
 
 If you're using Composer to manage dependencies, you can use
 
-    $ composer require joshyan/fpdf:^1.8
+    $ composer require joshyan/fpdf:^1.9
 
 or you can include the following in your composer.json file:
 
 ```json
 {
     "require": {
-        "joshyan/fpdf": "^1.8"
+        "joshyan/fpdf": "^1.9"
     }
 }
 ```
